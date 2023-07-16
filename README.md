@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
+![MasterHead]([https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg](https://arkasoft-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg))
 <h1 align="center">Hi 👋, I'm Isuru Rushan</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU"/>
